@@ -1,12 +1,12 @@
-# Hi, I'm Naveen 👋
+# 👋 Hi, I'm Naveen
 **Senior Full-Stack Developer | Java Spring Boot | MEAN & MERN | AI Enthusiast**
 
-I build **web & mobile applications** across multiple domains including **B2B, eCommerce, CRM, and SaaS CI/CD automation**.  
-I am **committed, fast-learning, and passionate about clean, efficient code**.
+🚀 I build **web & mobile applications** across **B2B, eCommerce, CRM, and SaaS CI/CD automation**.  
+💡 I love clean code, automation, and building scalable solutions.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🌟 Skills & Technologies
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -20,42 +20,47 @@ I am **committed, fast-learning, and passionate about clean, efficient code**.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Databases
+### Databases & DevOps
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-6CC24A?style=for-the-badge)
-
----
-
-## 💼 Projects & Highlights
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [B2B eCommerce](https://github.com/naveen/b2b-ecommerce) | Scalable multi-tenant platform | Java, Spring Boot, Angular, MySQL |
-| [CRM Automation](https://github.com/naveen/crm-automation) | Workflow automation & analytics | Node.js, React, MongoDB |
-| [SaaS CI/CD](https://github.com/naveen/saas-cicd) | Deployment pipelines for SaaS apps | GitHub Actions, Docker, Kubernetes |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveen&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen&layout=compact&theme=radical)
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=naveen&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen&layout=compact&theme=radical" width="48%" />
+</p>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naveen&theme=radical)
+
+---
+
+## 💼 Featured Projects
+
+<p float="left">
+  <a href="https://github.com/naveen/b2b-ecommerce"><img src="https://raw.githubusercontent.com/naveen/b2b-ecommerce/main/screenshots/home.png" width="48%" /></a>
+  <a href="https://github.com/naveen/crm-automation"><img src="https://raw.githubusercontent.com/naveen/crm-automation/main/screenshots/dashboard.png" width="48%" /></a>
+</p>
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [B2B eCommerce](https://github.com/naveen/b2b-ecommerce) | Multi-tenant platform with scalable architecture | Java, Spring Boot, Angular, MySQL |
+| [CRM Automation](https://github.com/naveen/crm-automation) | Workflow automation & analytics dashboard | Node.js, React, MongoDB |
+| [SaaS CI/CD](https://github.com/naveen/saas-cicd) | Automated deployment pipelines for SaaS apps | GitHub Actions, Docker, Kubernetes |
 
 ---
 
 ## ⚡ Working Style
 
-- **Committed & fast learner**: Quick ramp-up for new technologies  
-- **Clean & maintainable code**: Focus on readability & scalability  
-- **Problem-solver mindset**: Break down complex features efficiently  
-- **Cross-domain experience**: B2B, eCommerce, CRM, SaaS  
+- **Committed & Fast Learner**: Rapidly ramp-up new technologies  
+- **Clean & Scalable Code**: Readable, maintainable, and efficient  
+- **Problem-Solver Mindset**: Efficiently breaking down complex requirements  
+- **Cross-Domain Experience**: B2B, eCommerce, CRM, SaaS  
 
 ---
 
